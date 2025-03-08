@@ -1,0 +1,39 @@
+   Total number of similar words found = 177
+
+               38  from file 1
+               48  from file 2
+               18  from file 3
+               56  from file 4
+               17  from file 5
+
+
+
+            Similarity index = 44%
+
+              Source 1 = 31.9328%
+              Source 2 = 36.3636%
+              Source 3 = 13.3333%
+              Source 4 = 50%
+              Source 5 = 13.6%
+
+
+
+Total number of similar phrases = 15
+Similar Phrases/Clauses 				 Source File
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+    a)Did you know the word ‘essay’ is derived from a Latin word ‘exagium’1
+    b)which roughly translates to presenting one’s case    1
+    c)                                                       1
+    d)Did you know the word ‘essay’ is derived from a Latin word ‘exagium’2
+    e)which roughly translates to presenting one’s case    2
+    f)format                                                 2
+    g)and tips for essay-writing                             2
+    h)Did you know the word ‘essay’ is derived from a Latin word ‘exagium’4
+    i)which roughly translates to presenting one’s case    4
+    j)So essays are a short piece  of writing representing one’s side of the argument or one’s experiences4
+    k)stories                                                4
+    l)etc                                                    4
+    m)Essays are very personalized                           4
+    n)So let us learn about types of essays                  4
+    o)format                                                 4
+    p)and tips for essay-writing                             4
